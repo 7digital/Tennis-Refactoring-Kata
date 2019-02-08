@@ -5,8 +5,10 @@
 /ocaml/_build
 /ocaml/*.native
 /packages/
-/Tennis/bin/
-/Tennis/obj/
+/csharp/Tennis/bin/
+/csharp/Tennis/obj/
+/csharp/Tennis.Tests/bin/
+/csharp/Tennis.Tests/obj/
 *.suo
 *.swp
 .DS_Store
